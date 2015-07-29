@@ -1,6 +1,6 @@
 ﻿title: storm测试
 date: 2015-07-27 17:00:03
-tags:
+tags: storm
 ---
 
 # storm测试
